@@ -11,15 +11,15 @@ git clone https://github.com/nattalliit/front-dev-project.git
 cd front-dev-project
 npm install -s
 
-### Set Up a few React-specific Extensions to VS Code Editor
+// Set Up a few React-specific Extensions to VS Code Editor
 
-```bash
+
 •	ES7+ React/Redux/GraphQL/React-Native
 •	Auto Rename Tag 
 •	Trailing Spaces 
 
-### Add npm libraries
-```bash
+// Add npm libraries
+
 npm install react-dom
 npm i react-router-dom
 npm i @chakra-ui/react
