@@ -7,8 +7,8 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/fairytalesbrand/economic-app-reactjs.git
-cd economic-app-reactjs
+git clone https://github.com/nattalliit/front-dev-project.git
+cd front-dev-project
 npm install -s
 npm start 
 
